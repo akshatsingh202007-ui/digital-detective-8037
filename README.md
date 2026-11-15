@@ -27,3 +27,6 @@ I'll keep updating this section as I complete each mission and learn new things.
 
 ## Project Structure
 I've created a separate folder for each mission to keep everything organised. Each folder has its own README file where I'll document the work I've done and what I've learned. I'll also commit and push each mission separately to GitHub.
+## My Learning
+
+So far, this assignment has helped me understand how computers work, manage files using Terminal, and use Git for version control. I also learned how Python handles number conversions and how programs are executed.
