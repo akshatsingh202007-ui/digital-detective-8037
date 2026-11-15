@@ -1,0 +1,23 @@
+1. LAN (Local Area Network)
+A network covering a small area, such as a home, lab or office.
+
+2. MAN (Metropolitan Area Network)
+A network covering a city or a large campus area.
+
+3. WAN (Wide Area Network)
+A network covering large geographical areas. The Internet is an example.
+
+4. DNS (Domain Name System)
+Translates a domain name into an IP address so computers can locate websites.
+
+5. Router
+Connects networks and forwards data between them.
+
+6. Protocol
+A set of rules devices follow to communicate with each other.
+
+7. Packet Switching
+Data is divided into smaller packets that travel across a network.
+
+8. Client-Server
+A client requests a service and a server provides it.
