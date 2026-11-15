@@ -1,8 +1,9 @@
 # Digital Detective
 
-This repository contains all my work for the Digital Detective Diwali Independent Learning Assignment. It includes the different tasks and activities I completed while learning about computers, programming and related concepts.
+This repository contains my work for the Digital Detective Diwali Independent Learning Assignment. It includes the tasks and activities I completed while learning about computers, programming and related concepts.
 
 ## Mission Index
+
 - [Mission 0 - Setup](mission-00-setup/README.md)
 - [Mission 1 - Computer Basics](mission-01-computer-basics/README.md)
 - [Mission 2 - Terminal](mission-02-terminal/README.md)
@@ -14,19 +15,30 @@ This repository contains all my work for the Digital Detective Diwali Independen
 - [Mission 8 - Final Report](mission-08-final-report/README.md)
 
 ## Topics Covered
-- Computer Fundamentals
-- Terminal Operations
-- Operating Systems
+
+- Computer Fundamentals and IPOS
+- Terminal Operations and File Management
+- Operating Systems and Processes
 - Python Programming
-- Number Systems
+- Number Systems and Text Encoding
 - Git and GitHub
-- Computer Networks
+- Computer Networks and DNS
 
-## Learning Summary
-I'll keep updating this section as I complete each mission and learn new things.
+## Running the Number Converter
 
-## Project Structure
-I've created a separate folder for each mission to keep everything organised. Each folder has its own README file where I'll document the work I've done and what I've learned. I'll also commit and push each mission separately to GitHub.
+Open Terminal in the project folder and run:
+
+    cd mission-05-numbers-data
+    python3 number_converter.py
+
+Enter a decimal number when prompted. The program displays its binary and hexadecimal representations.
+
 ## My Learning
 
-So far, this assignment has helped me understand how computers work, manage files using Terminal, and use Git for version control. I also learned how Python handles number conversions and how programs are executed.
+Through these missions, I learned how computers process information, how to manage files using Terminal, and how operating systems handle processes and permissions.
+
+I also practised Python programming, number conversions, and text encoding. Working with Git and GitHub helped me understand version control, branches and Pull Requests. Finally, I learned basic networking concepts and how DNS helps browsers locate websites.
+
+## Project Structure
+
+Each mission has its own folder and README file containing the work and concepts covered. Each mission is documented and committed separately to GitHub.
