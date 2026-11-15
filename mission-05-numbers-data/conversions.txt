@@ -1,0 +1,111 @@
+MISSION 5 – NUMBERS AND DATA
+
+TASK 5.1 – MANUAL CONVERSIONS
+
+1. Decimal 13 to Binary
+
+13 / 2 = 6 remainder 1
+6 / 2 = 3 remainder 0
+3 / 2 = 1 remainder 1
+1 / 2 = 0 remainder 1
+
+Answer: 1101
+
+2. Decimal 25 to Binary
+
+25 / 2 = 12 remainder 1
+12 / 2 = 6 remainder 0
+6 / 2 = 3 remainder 0
+3 / 2 = 1 remainder 1
+1 / 2 = 0 remainder 1
+
+Answer: 11001
+
+3. Binary 1010 to Decimal
+
+(1 x 8) + (0 x 4) + (1 x 2) + (0 x 1) = 10
+
+Answer: 10
+
+4. Binary 1101 to Decimal
+
+(1 x 8) + (1 x 4) + (0 x 2) + (1 x 1) = 13
+
+Answer: 13
+
+5. Hexadecimal A to Decimal
+
+A = 10
+
+Answer: 10
+
+6. Hexadecimal 1F to Decimal
+
+(1 x 16) + (15 x 1) = 31
+
+Answer: 31
+
+7. Binary 1111 to Hexadecimal
+
+1111 in binary = 15 in decimal = F in hexadecimal
+
+Answer: F
+
+
+TASK 5.2 – PYTHON VERIFICATION
+
+Expression: bin(13)
+Result: 0b1101
+
+Expression: bin(25)
+Result: 0b11001
+
+Expression: int('1010', 2)
+Result: 10
+
+Expression: int('1101', 2)
+Result: 13
+
+Expression: int('A', 16)
+Result: 10
+
+Expression: int('1F', 16)
+Result: 31
+
+Expression: hex(int('1111', 2))
+Result: 0xf
+
+The Python results matched my manual calculations.
+
+
+TASK 5.3 – NUMBER CONVERTER
+
+File created: number_converter.py
+
+The program takes a decimal number as input and displays its binary and hexadecimal values.
+
+Test 1:
+Input: 13
+Binary: 0b1101
+Hexadecimal: 0xd
+
+Test 2:
+Input: 25
+Binary: 0b11001
+Hexadecimal: 0x19
+
+Test 3:
+Input: 42
+Binary: 0b101010
+Hexadecimal: 0x2a
+
+
+TASK 5.4 – HOW IS TEXT STORED?
+
+ASCII code for uppercase A: 65
+
+ASCII code for lowercase a: 97
+
+A computer needs an encoding standard to convert characters into numbers so that text can be stored and understood consistently.
+
+One character outside basic ASCII: ₹
