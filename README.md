@@ -1,5 +1,3 @@
-# Digital Detective
-
 This repository contains my work for the Digital Detective Diwali Independent Learning Assignment. It includes the tasks and activities I completed while learning about computers, programming and related concepts.
 
 ## Mission Index
